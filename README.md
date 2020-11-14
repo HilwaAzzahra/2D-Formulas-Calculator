@@ -1,1 +1,1 @@
-# 2D-Formulas-Calculator
+Simple beginner projects using python
