@@ -1,1 +1,3 @@
-Basic python calculator by creating many new functions to made it easier to read and mantain
+#Calculator for 2D figure 
+
+Simple calculator code using python
